@@ -1,0 +1,4 @@
+vendor
+.env
+.fleet
+pkg
